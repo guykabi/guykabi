@@ -1,6 +1,7 @@
  Hi, I’m Guy 
- Interested in Full stack development 
- I’m currently learning react and GraphQL in addition to angular, node.js , .net, mongoDB and more. 
- I’m looking to collaborate on any type of project that can help me and the person i'm collaborate with to grow.
- My phone number is : 0509218819
+ I am Full stack developer with a year and a half of experience and deep studying web programming. 
+ Skilled in js, typescript, react, node.js, MongoDB and more. 
+ I’m currently a freelance that looking for a position in the market and as well to grow and learn as much as possible!
+ My number is - +972509218819
+ 
 
